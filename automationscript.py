@@ -1,6 +1,6 @@
-import os
-import shutil
 import csv
+import shutil
+import os
 import logging
 from datetime import datetime
 
@@ -90,7 +90,6 @@ def automate_files(base_dir):
 
     finally:
         print("\n✅ Operation completed")
-
 
 def main():
     print("📁 FILE AUTOMATION DEMO")
