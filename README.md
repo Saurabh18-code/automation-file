@@ -6,12 +6,12 @@
 
 ### Setup Demo Files
 
-![Setup](screenshots/setup.png)
+![Setup Demo Files](screenshots/setup.png)
 
 ### Automation Output
 
-![Automation](screenshots/automation.png)
+![Automation Output](screenshots/automation.png)
 
 ### Files Created
 
-![Files](screenshots/files.png)
+![Files Created](screenshots/files.png)
