@@ -1,0 +1,4 @@
+2026-05-04 11:34:12,610 - ERROR - Setup error: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'python -u "c:'
+2026-05-04 11:34:24,127 - ERROR - Setup error: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'python -u "c:'
+2026-05-04 11:34:26,298 - ERROR - Setup error: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'python -u "c:'
+2026-05-04 11:34:29,225 - ERROR - Unexpected error: [Errno 22] Invalid argument: 'python -u "c:\\Users\\Saurabh\\intern task 1\\automationscript.py"\\sample.txt'

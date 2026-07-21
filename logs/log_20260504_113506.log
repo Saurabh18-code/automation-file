@@ -1,0 +1,7 @@
+2026-05-04 11:35:25,319 - INFO - Created directory: demo_file
+2026-05-04 11:35:25,320 - INFO - Created sample.txt
+2026-05-04 11:35:25,320 - INFO - Created data.csv
+2026-05-04 11:35:29,573 - INFO - Read sample.txt
+2026-05-04 11:35:29,575 - INFO - Moved sample.txt to archived_sample.txt
+2026-05-04 11:35:29,576 - INFO - Processed Task_A
+2026-05-04 11:35:29,576 - INFO - Processed Task_B
